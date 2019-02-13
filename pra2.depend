@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550025294 source:c:\users\administrator\desktop\cprogram\pra2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1549006248 c:\users\administrator\desktop\cprogram\pra2\line.c
+	<stdio.h>
+	<stdlib.h>
+
+1549012191 source:c:\users\administrator\desktop\cprogram\pra2\line.c
+	<stdio.h>
+	<stdlib.h>
+
+1550025978 c:\users\administrator\desktop\cprogram\pra2\function.h
+	<stdio.h>
+
